@@ -1,0 +1,25 @@
+.main-style{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: bisque;
+    margin: 0px 200px;
+    padding-top: 20px;
+}
+
+.image{
+    border: 1px solid grey;
+    border-radius: 10px;
+}
+.name{
+font-size: 24px;
+font-weight: 500;
+
+}
+
+.adresse{
+    font-size: 24px;
+    font-weight: 500;
+    
+
+}
